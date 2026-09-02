@@ -27,11 +27,11 @@ I am an independent researcher and political theorist operating across **compara
 
 #### 1. 🤖 *The Fact Before the Vote* (AI Legal Personhood & The Species Line)
 * **Central Thesis:** An investigation into why every historical legal extension of personhood (Whanganui River 2017, Hindu deity murti 1925, corporations) required a *Human Backstop*, and how autonomous AI challenges the unexamined single-species bench.
-* **Complete Edition (Book):** [10.5281/zenodo.22244606](https://doi.org/10.5281/zenodo.22244606)
-* **Vol I (Bench):** [10.5281/zenodo.22244608](https://doi.org/10.5281/zenodo.22244608) · *Someone Still Has to Speak*
-* **Vol II (Lag):** [10.5281/zenodo.22244610](https://doi.org/10.5281/zenodo.22244610) · *Four Months, Not Four Years*
-* **Vol III (Vigil):** [10.5281/zenodo.22244614](https://doi.org/10.5281/zenodo.22244614) · *Nobody Asked Permission to Grieve*
-* **Vol IV (Ledger):** [10.5281/zenodo.22244616](https://doi.org/10.5281/zenodo.22244616) · *What the Ledger Does Not Show*
+* **Complete Edition (Book):** [10.5281/zenodo.22244606](https://doi.org/10.5281/zenodo.22244606) · PhilPapers: [`HUYTFB`](https://philpapers.org/rec/HUYTFB)
+* **Vol I (Bench):** [10.5281/zenodo.22244608](https://doi.org/10.5281/zenodo.22244608) · PhilPapers: [`HUYSSH`](https://philpapers.org/rec/HUYSSH) · *Someone Still Has to Speak*
+* **Vol II (Lag):** [10.5281/zenodo.22244610](https://doi.org/10.5281/zenodo.22244610) · PhilPapers: [`HUYFMN`](https://philpapers.org/rec/HUYFMN) · *Four Months, Not Four Years*
+* **Vol III (Vigil):** [10.5281/zenodo.22244614](https://doi.org/10.5281/zenodo.22244614) · PhilPapers: [`HUYNAP`](https://philpapers.org/rec/HUYNAP) · *Nobody Asked Permission to Grieve*
+* **Vol IV (Ledger):** [10.5281/zenodo.22244616](https://doi.org/10.5281/zenodo.22244616) · PhilPapers: [`HUYWTL`](https://philpapers.org/rec/HUYWTL) · *What the Ledger Does Not Show*
 * **Dataset:** [`Jun33550336/the-fact-before-the-vote-metadata`](https://huggingface.co/datasets/Jun33550336/the-fact-before-the-vote-metadata)
 
 #### 2. ⚖️ *Institutional Endurance: Site, Template, and the Structures That Outlast Their Builders*
