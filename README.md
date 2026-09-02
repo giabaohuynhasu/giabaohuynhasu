@@ -37,6 +37,7 @@ I am an independent researcher and political theorist operating across **compara
 #### 2. ⚖️ *Institutional Endurance: Site, Template, and the Structures That Outlast Their Builders*
 * **Volume I:** *The Infrastructure of Borrowed Legitimacy: Direct versus Indirect Rule, Customary Courts, and the Divergent Bureaucratic Legacies of Colonial Empires*
 * **DOI:** [10.5281/zenodo.22255887](https://doi.org/10.5281/zenodo.22255887)
+* **PhilPapers / PhilArchive:** [`HUYVIT`](https://philpapers.org/rec/HUYVIT)
 * **Empirical Replication:** Replicating Matthew Lange across both $N=18$ pilot and full $N=33$ British colonies sample ($r = -0.83, R^2 = 0.69$).
 * **Dataset:** [`Jun33550336/institutional-endurance`](https://huggingface.co/datasets/Jun33550336/institutional-endurance)
 
@@ -59,19 +60,3 @@ I am an independent researcher and political theorist operating across **compara
   Research Stack:      Zotero Web API · Obsidian REST API · Google NotebookLM · Overleaf LaTeX
   Verification:        OSF SHA-256 Pre-Registration · 50-Year Deterministic Replication Bundles
 ```
-
----
-
-### 🤝 Multi-Agent Collaborative Ecosystem
-
-All preprints and software packages adhere to explicit, documented multi-agent co-authorship and technical credit:
-* **Principal Investigator & Author:** Gia Bao Huynh (Jun)
-* **Philosophical Co-Author:** Claude Sonnet 5 (Anthropic)
-* **Engineering & Analytics Copilot:** Antigravity IDE & Gemini Spark (Google DeepMind)
-* **Corpus Deep Memory:** Google NotebookLM
-* **Web Scout:** Perplexity Comet Browser
-
----
-<p align="center">
-  <i>"What happens to political legitimacy and the moral psychology of loss once mortality ceases to arrive for everyone on the same terms?"</i>
-</p>
