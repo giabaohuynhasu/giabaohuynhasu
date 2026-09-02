@@ -5,7 +5,7 @@
   <a href="https://orcid.org/0009-0008-2372-5852"><img src="https://img.shields.io/badge/ORCID-0009--0008--2372--5852-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
   <a href="https://giabaohuynhasu.github.io/research-landing/"><img src="https://img.shields.io/badge/Live%20Research%20Portal-LAR--OS-00f2fe?style=for-the-badge&logo=githubpages&logoColor=black" alt="Portal"/></a>
   <a href="https://philpeople.org/profiles/gia-bao-huynh"><img src="https://img.shields.io/badge/PhilPeople-Profile-d97706?style=for-the-badge" alt="PhilPeople"/></a>
-  <a href="https://asu.academia.edu/GiaBaoHuynh"><img src="https://img.shields.io/badge/Academia.edu-Gia%20Bao%20Huynh-red?style=for-the-badge" alt="Academia"/></a>
+  <a href="https://independent.academia.edu/GiaB%E1%BA%A3oHu%E1%BB%B3nh30"><img src="https://img.shields.io/badge/Academia.edu-Gia%20B%E1%BA%A3o%20Hu%E1%BB%B3nh-red?style=for-the-badge" alt="Academia"/></a>
   <a href="https://doi.org/10.5281/zenodo.22244606"><img src="https://img.shields.io/badge/Zenodo-Open%20Access-024dad?style=for-the-badge&logo=zenodo&logoColor=white" alt="Zenodo"/></a>
   <a href="https://huggingface.co/Jun33550336"><img src="https://img.shields.io/badge/Hugging%20Face-Jun33550336-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/></a>
 </p>
@@ -17,7 +17,7 @@
 I am an independent researcher and political theorist operating across **comparative jurisprudence, technological timescale asymmetry, and biogerontological political economy**. My work formalizes the institutional, moral, and economic ruptures that occur when historical axioms (such as universal mortality and single-species legal benches) collapse in the presence of frontier artificial intelligence and biotechnology.
 
 * 🌐 **Interactive Research Hub:** [https://giabaohuynhasu.github.io/research-landing/](https://giabaohuynhasu.github.io/research-landing/)
-* 🏛️ **Academic Profiles:** [PhilPeople Profile](https://philpeople.org/profiles/gia-bao-huynh) · [Academia.edu Profile](https://asu.academia.edu/GiaBaoHuynh) · [ORCID: 0009-0008-2372-5852](https://orcid.org/0009-0008-2372-5852)
+* 🏛️ **Academic Profiles:** [PhilPeople Profile](https://philpeople.org/profiles/gia-bao-huynh) · [Academia.edu Profile](https://independent.academia.edu/GiaB%E1%BA%A3oHu%E1%BB%B3nh30) · [ORCID: 0009-0008-2372-5852](https://orcid.org/0009-0008-2372-5852)
 * 📧 **Institutional Contact:** `huynhbao@asu.edu` · **Location:** Ho Chi Minh City, Vietnam
 * 📜 **Corpus Scale:** 176+ timestamped, open-access preprints indexed on Zenodo CERN and PhilPapers / PhilPeople.
 
