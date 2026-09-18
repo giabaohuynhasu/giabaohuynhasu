@@ -46,9 +46,16 @@ I am an independent researcher and political theorist operating across **compara
 * **Key Frameworks:** *ARSI-Longevity Resonance Paradox (ALRP)*, *Biological Zero-Day Reset (BZM)*, *Symbol-Body Fusion*, and *Moral Injury A5*.
 * **DOI:** [10.5281/zenodo.22183493](https://doi.org/10.5281/zenodo.22183493) · **Dataset:** [`Jun33550336/biological-time-inequality-framework-metadata`](https://huggingface.co/datasets/Jun33550336/biological-time-inequality-framework-metadata)
 
-#### 4. 📜 *War Correspondent Philosophy (WCP)* (Human–AI Epistemology)
-* **Central Thesis:** A meta-methodological epistemology where the philosopher rejects retrospective armchair immunity to embed as an eyewitness on the computational frontline, formalizing *Machine-Speed Epistemic Dependence (Hardwig–Kitcher Extended)*.
-* **Key Works:** *The Embedded Witness* ([10.5281/zenodo.20860171](https://doi.org/10.5281/zenodo.20860171)), *Epistemic Dependence at Machine Speed* ([10.5281/zenodo.21898900](https://doi.org/10.5281/zenodo.21898900)).
+#### 4. 📜 *War Correspondent Philosophy (WCP)* (Human–AI Epistemology & 6-Volume Monograph)
+* **Central Thesis:** A meta-methodological epistemology where the philosopher rejects retrospective armchair immunity to embed as an eyewitness on the computational frontline, formalizing *Machine-Speed Epistemic Dependence (Hardwig–Kitcher Extended)* and autodidactic falsificationism.
+* **Complete Edition (Book):** *Method, Evidence, and the Ethics of Research Under a Closing Window* ([10.5281/zenodo.20860171](https://doi.org/10.5281/zenodo.20860171))
+* **Vol I (Witness):** *The Embedded Witness: Temporal Proximity and the Self-Demonstrating Text* ([10.5281/zenodo.20860171](https://doi.org/10.5281/zenodo.20860171))
+* **Vol II (Falsification):** *Falsification and Epistemic Self-Governance: Independent Attack Surfaces* ([10.5281/zenodo.21977808](https://doi.org/10.5281/zenodo.21977808))
+* **Vol III (Temporalism):** *Corpus Temporalism: Timestamp as Argument and Evidential Sequence* ([10.5281/zenodo.21898702](https://doi.org/10.5281/zenodo.21898702))
+* **Vol IV (Epistemology):** *Human–AI Epistemology: Statelessness and Mechanical Division of Labor* ([10.5281/zenodo.21898900](https://doi.org/10.5281/zenodo.21898900))
+* **Vol V (Transfer):** *Mechanism Transfer and Domain Portability: Structural Invariance Across Disciplines* ([10.5281/zenodo.21962154](https://doi.org/10.5281/zenodo.21962154))
+* **Vol VI (Revision):** *The Prospective and Self-Revising Life of a Framework: Lakatosian Shift* ([10.5281/zenodo.21780816](https://doi.org/10.5281/zenodo.21780816))
+* **Full-Text & PDF Corpus:** [`Jun33550336/war-correspondent-philosophy-corpus`](https://huggingface.co/datasets/Jun33550336/war-correspondent-philosophy-corpus) · **Metadata:** [`Jun33550336/war-correspondent-philosophy-metadata`](https://huggingface.co/datasets/Jun33550336/war-correspondent-philosophy-metadata)
 
 ---
 
