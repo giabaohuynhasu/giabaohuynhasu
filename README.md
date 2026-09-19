@@ -57,13 +57,20 @@ I am an independent researcher and political theorist operating across **compara
 * **Vol VI (Revision):** *The Prospective and Self-Revising Life of a Framework: What a Theory Does After It Is Falsified* ([10.5281/zenodo.22822038](https://doi.org/10.5281/zenodo.22822038)) · PhilPapers: [`HUYTPA-3`](https://philpapers.org/rec/HUYTPA-3) · Academia: [Academia #175806753](https://www.academia.edu/175806753/War_Correspondent_Philosophy_Vol_VI_The_Prospective_and_Self_Revising_Life_of_a_Framework)
 * **Full-Text & PDF Corpus:** [`Jun33550336/war-correspondent-philosophy-corpus`](https://huggingface.co/datasets/Jun33550336/war-correspondent-philosophy-corpus) · **Metadata:** [`Jun33550336/war-correspondent-philosophy-metadata`](https://huggingface.co/datasets/Jun33550336/war-correspondent-philosophy-metadata)
 
+#### 5. 🛡️ *Empirical Replication Package: 28-Year CVE/CNA Population Census & Cybernetic Queueing*
+* **Core Investigation:** Full population census of all $N = 385,524$ vulnerability records (1999–2026), testing decentralization (MITRE share dropping $100\% \to 3.54\%$, HHI $10,000 \to 674.30$), survival analysis right-truncation bias correction, and proving the $6.50\times$ capacity deficit against CISA BOD 26-04 in $M/G/1$ queueing models.
+* **GitHub Repository:** [`giabaohuynhasu/cna-vulnerability-census-replication`](https://github.com/giabaohuynhasu/cna-vulnerability-census-replication)
+* **Hugging Face Dataset:** [`Jun33550336/cna-vulnerability-census-replication`](https://huggingface.co/datasets/Jun33550336/cna-vulnerability-census-replication)
+* **Live Simulator:** [Cybernetic Queueing Instability Simulator (M/G/1 Model)](https://giabaohuynhasu.github.io/research-landing/#simulators)
+
 ---
 
 ### 💻 Computational & Epistemic Stack
 
 ```text
-  Languages & Engine:  Python 3.14 · DuckDB (N=223k Census) · SQL · Bash · PowerShell
+  Languages & Engine:  Python 3.14 · DuckDB (N=385k Census) · SQL · Bash · PowerShell
   Machine Learning:    Hugging Face Hub · Transformers · Serverless Inference API · Gradio
   Research Stack:      Zotero Web API · Obsidian REST API · Google NotebookLM · Overleaf LaTeX
   Verification:        OSF SHA-256 Pre-Registration · 50-Year Deterministic Replication Bundles
 ```
+
