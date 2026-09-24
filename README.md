@@ -1,5 +1,5 @@
 # Gia Bao Huynh (Jun)
-### Independent Scholar · Political Theorist · Computational Jurisprudence & Longevity Asymmetry
+### Independent Scholar · Political Theorist · Non-State Actor Governance · Computational Jurisprudence
 
 <p align="left">
   <a href="https://orcid.org/0009-0008-2372-5852"><img src="https://img.shields.io/badge/ORCID-0009--0008--2372--5852-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
@@ -16,10 +16,13 @@
 
 I am an independent researcher and political theorist operating across **comparative jurisprudence, technological timescale asymmetry, and biogerontological political economy**. My work formalizes the institutional, moral, and economic ruptures that occur when historical axioms (such as universal mortality and single-species legal benches) collapse in the presence of frontier artificial intelligence and biotechnology.
 
+**Core Research Stance:** My research program explicitly **challenges the unchecked power, capability hoarding, and epistemic monopolization of non-state actors** — including frontier artificial intelligence laboratories, private biogerontological cartels, and transnational algorithmic platforms — analyzing how they bypass sovereign democratic oversight, distort public goods, and institutionalize structural inequality.
+
 * 🌐 **Interactive Research Hub:** [https://giabaohuynhasu.github.io/research-landing/](https://giabaohuynhasu.github.io/research-landing/)
 * 🏛️ **Academic Profiles:** [PhilPeople Profile](https://philpeople.org/profiles/gia-bao-huynh) · [Academia.edu Profile](https://independent.academia.edu/GiaB%E1%BA%A3oHu%E1%BB%B3nh30) · [ORCID: 0009-0008-2372-5852](https://orcid.org/0009-0008-2372-5852)
 * 📧 **Institutional Contact:** `huynhbao@asu.edu` · **Location:** Ho Chi Minh City, Vietnam
 * 📜 **Corpus Scale:** 180+ timestamped, open-access preprints indexed on Zenodo CERN and PhilPapers / PhilPeople.
+* ⚔️ **Intellectual Stance:** Challenging the unchecked structural power and monopolistic governance of non-state actors in frontier technologies.
 
 ---
 
